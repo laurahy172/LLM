@@ -1,0 +1,62 @@
+You can get an OpenAI API key by creating an account on the OpenAI Platform and generating a new key in your user settings.
+
+Here are the step-by-step instructions.
+
+1. Create an OpenAI Account
+First, you need an account on the OpenAI developer platform.
+
+Go to the OpenAI platform website: platform.openai.com.
+
+Click "Sign up" and create an account using your email, Google, or Microsoft account. You may need to verify your phone number.
+
+Note: This is different from a regular ChatGPT account, although you can use the same login credentials. The key is only available on the developer platform.
+
+2. Navigate to the API Keys Section
+Once you are logged in, find the API keys page.
+
+Click on your profile icon or name in the top-right corner of the page.
+
+From the dropdown menu, select "View API keys".
+
+Alternatively, you can go directly to the API keys page: platform.openai.com/api-keys.
+
+3. Generate Your New API Key 🔑
+On the API keys page, you can create and manage your keys.
+
+Click the "+ Create new secret key" button.
+
+You will be prompted to give the key an optional name. This is highly recommended to help you remember which application uses which key (e.g., "My Chatbot Project").
+
+Click "Create secret key".
+
+4. Copy and Store Your Key Securely ⚠️
+A dialog box will appear showing your new API key.
+
+This is the only time you will be able to see the full key. For security reasons, OpenAI will not show it to you again.
+
+Click the copy icon to copy the key to your clipboard.
+
+Store it in a secure location immediately, like a password manager or an environment variable file (.env) for your project.
+
+Important: Treat your API key like a password. Never share it publicly, post it online, or commit it to a public code repository like GitHub.
+
+5. Set Up Billing Information
+To use the API beyond the initial free trial credits, you'll need to set up a payment method.
+
+Go to the "Billing" section in the left-hand navigation menu.
+
+Click "Add payment details" and set up a prepaid credit balance or a monthly plan.
+
+That's it! You can now use your API key to make requests to the OpenAI API.
+
+
+
+
+
+
+
+
+
+
+
+https://platform.openai.com/docs/guides/text
